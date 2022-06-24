@@ -1,20 +1,19 @@
-import { gql, useQuery } from "@apollo/client"
-import { useEffect } from "react"
+
+import { ApolloProvider } from "@apollo/client"
+import { BrowserRouter } from "react-router-dom"
 import { client } from "./lib/apollo"
-import { Header } from "./lib/components/Header"
-import { Lesson } from "./lib/components/Lesson"
-import { Sidebar } from "./lib/components/Sidebar"
-import { Video } from "./lib/components/Video"
+import { Router } from "./Router"
 
 
 function App() {
 
   return (
     <div>
-      <Header />
-      <Sidebar />
-      <Video />
-      <Lesson />
+      <ApolloProvider client={client}>
+        <BrowserRouter>
+          <Router />
+        </BrowserRouter>
+      </ApolloProvider>
     </div>
   )
 }
