@@ -57,3 +57,8 @@ function App() {
 }
 
 export default App
+
+
+    function handleSubscribe() {
+        event?.preventDefault() // Impede o comportamento padrão do form de enviar o usuário para outra tela
+    }
