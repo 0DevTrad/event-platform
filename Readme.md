@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A Event Plataform é uma plataforma de eventos online desenvolvida durante a semana do Ignite Lab da RocketSeat 2022.
+A Event Plataform é uma plataforma de eventos online desenvolvida durante a semana do Ignite Lab da Rocketseat 2022.
 
 ## 🔖 Layout
 
@@ -39,4 +39,4 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 
 ---
 
-Feito durante a semana Ignite Lab 2022 da RocketSeat. :rocket:
+Feito durante a semana Ignite Lab 2022 da Rocketseat. :rocket:
