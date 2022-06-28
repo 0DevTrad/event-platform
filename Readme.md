@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="http://www.w3.org/2000/svg" />
+    <img alt="igniteLab" title="IgniteLab" src="src\img\Logo.svg"/>
 </h1>
 
 <p align="center">
